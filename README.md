@@ -13,4 +13,4 @@ Background and banner images are in CC0 :
 - Rising Sun, by Dear Theophilus, via [Openclipart](https://openclipart.org/detail/122071/rising-sun)
 - Lotus-feuille-de-lotus-floraison, by Yangpin, via [Pixabay](https://pixabay.com/fr/lotus-feuille-de-lotus-floraison-563456/)
 
-If you like this template, you can thank me with a cup of tea here : https://liberapay.com/Zatalyz/ and and also support the other authors who help me with their code and images. Support Dokuwiki, Andreas Gohr, Anika Henke, Clarence Lee, Openclipart, Dear Theophilus, Pixabay, Yangpin too :)
+If you like this template, you can thank me with a cup of tea here : https://liberapay.com/Zatalyz/ and also support the other authors who help me with their code and images. Support Dokuwiki, Andreas Gohr, Anika Henke, Clarence Lee, Openclipart, Dear Theophilus, Pixabay, Yangpin too :)
